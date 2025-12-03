@@ -1,0 +1,21 @@
+# Telegram session files (contain your login)
+*.session
+*.session-journal
+
+# Excel files with phone numbers (private data)
+*.xlsx
+*.csv
+~$*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables (if you create a config file)
+.env
+config.py
+
+# IDE
+.vscode/
+.idea/
