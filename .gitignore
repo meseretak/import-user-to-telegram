@@ -3,8 +3,6 @@
 *.session-journal
 
 # Excel files with phone numbers (private data)
-*.xlsx
-*.csv
 ~$*.xlsx
 
 # Python
