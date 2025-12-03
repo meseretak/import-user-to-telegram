@@ -4,8 +4,13 @@ import time
 import asyncio
 
 # 1. Your API credentials
+<<<<<<< HEAD
 api_id = YOUR_API_ID  # Get from https://my.telegram.org
 api_hash = 'YOUR_API_HASH'  # Get from https://my.telegram.org
+=======
+api_id = 38499007
+api_hash = '394a39a7037f5d2ac42ce83b8c78fc9c'
+>>>>>>> 5d6e9e8d65b5ffe2784932e87e66a6e88d786dc9
 
 # 2. Connect to Telegram
 client = TelegramClient('my_session', api_id, api_hash)

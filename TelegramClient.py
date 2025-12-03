@@ -5,8 +5,8 @@ from telethon.tl.types import InputPhoneContact
 import csv
 import asyncio
 
-api_id = YOUR_API_ID  # Get from https://my.telegram.org
-api_hash = "YOUR_API_HASH"  # Get from https://my.telegram.org
+api_id =38499007          # your API ID
+api_hash ="394a39a7037f5d2ac42ce83b8c78fc9c"
 group_link = "https://t.me/mesiak1"
 client = TelegramClient("session", api_id, api_hash)
 
